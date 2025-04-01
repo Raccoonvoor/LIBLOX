@@ -1,5 +1,5 @@
 # LIBLOX
-Jogo de libras através da plataforma ROBLOX
+Jogo de libras através da plataforma ROBLO
 
 <h1>Contextualização</h1>
 
